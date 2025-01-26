@@ -1,1 +1,1 @@
-# Image-Variation-App
+# Image Variation App
